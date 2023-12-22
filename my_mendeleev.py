@@ -1,5 +1,5 @@
 from PyQt6 import QtWidgets
-from my_periodic import Ui_MainWindow
+from mendeleev import Ui_MainWindow
 import csv
 
 class MyWindow(QtWidgets.QMainWindow):
